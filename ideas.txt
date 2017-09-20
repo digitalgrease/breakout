@@ -1,0 +1,22 @@
+Reference
+- https://webglfundamentals.org/webgl/lessons/webgl-anti-patterns.html
+
+Coffee Fuelled Website
+- Change text to Web.App.Market.Media.
+- Breakpoints
+  - 352 smallest size
+  - 445 expands
+  - (950 is half my screen size at work x 429)
+  - 992 increases in size
+  - 1200 full size
+- Leaderboard
+- Capture name and email address to register score on leaderboard
+
+General Changes
+- Add mouse controls
+- Add mobile controls
+- Power-Ups
+- Extra Lives
+- Bricks that require more hits
+- Natural speed increase by removing bricks from the array
+- Level editor
